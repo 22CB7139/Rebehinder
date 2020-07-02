@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="net.rebeyond.behinder.behinder.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/net_rebeyond_behinder_behinder_main_jar</output-path>
+    <root id="archive" name="net.rebeyond.behinder.behinder.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="net.rebeyond.behinder.behinder.main" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/asm-3.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/swing2swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/org.eclipse.text_3.6.100.v20170203-0814.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jsp-api-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/servletapi-2.4-20040521.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/sqlite-jdbc-3.21.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/swt_win_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/json-20180130.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/org.eclipse.core.runtime-3.13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
